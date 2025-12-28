@@ -1,60 +1,42 @@
-# Hello, I'm Ali Afnan
-<a href="www.linkedin.com/in/ali-afnan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 💫 About Me:
+I’m a **Junior DevOps Engineer** with a strong hands-on foundation in **Docker**, solid working knowledge of **Kubernetes**, and practical experience deploying and operating workloads on **AWS**. I focus on building reproducible, automation-first systems rather than just following tutorials.
 
-I'm a passionate cybersecurity enthusiast, growing my skills from the basics of Linux and Python to mastering ethical hacking, vulnerability assessments, and cloud security frameworks
+My background in **Linux system administration, Python scripting, and security** helps me think beyond “it works”. I care about **reliability, observability, and secure-by-default infrastructure**. I’m comfortable working with CI/CD pipelines, containerized environments, and cloud-native tooling, and I actively document labs and projects to mirror real-world DevOps workflows.
 
-## Objective
+Currently working toward a **remote DevOps / AIOps role**, with emphasis on:
 
-My journey in computer science has sparked a strong passion for cybersecurity, AI, DevOps, and SysOps, and I'm excited to transition into these fields.
+- 🐳 Docker (advanced usage, image optimization, container workflows)
+- ☸️ Kubernetes (core concepts, deployments, services, troubleshooting)
+- ☁️ AWS (EC2, IAM, networking fundamentals, cloud operations)
+- ⚙️ CI/CD pipelines & automation
+- 🔐 Security-aware DevOps practices (Linux hardening, vulnerability awareness)
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Linux Administration                          | <a href="https://google.com">Linux Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Python Scripting                              | |
-|  | |
-|  | |
-|  | |
-
-## Tools
-
-## Operating Systems
-<div>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white" /></a>
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
-  <a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/-Parrot_OS-5D8B8D?&style=for-the-badge&logo=Parrot&logoColor=white" /></a>
-  <a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/-Parrot_OS-5D8B8D?&style=for-the-badge&logo=Parrot&logoColor=white" /></a>
-  <a href="https://www.microsoft.com/en-us/windows/windows-10"><img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
-  <a href="https://www.microsoft.com/en-us/windows/windows-7/"><img src="https://img.shields.io/badge/-Windows_7-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
-</div>
-
-### Programming Languages 
-<div>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU&logoColor=white" /></a>
-
-</div>
+I believe in learning by **breaking things, fixing them, and documenting the process**.
 
 
+## 🌐 Let's Connect :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-afnan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.afnan2372@gmail.com) 
 
-### Network pentesting
+I’m always open to conversations around DevOps, Cloud, and real-world engineering challenges.
+If you’re a recruiter, hiring manager, or engineer building meaningful systems. let’s talk.
 
-<div>
-    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
-    <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/-ZAP_Proxy-6c5b3e?&style=for-the-badge&logo=OWASP&logoColor=white" /></a>
-    <a href="https://owasp.org/"><img src="https://img.shields.io/badge/-OWASP-7B7F7B?&style=for-the-badge&logo=OWASP&logoColor=white" /></a>
-    <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp_Suite-9e1a1a?&style=for-the-badge&logo=BurpSuite&logoColor=white" /></a>
-    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-00A5E5?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
-    <a href="https://www.spiderfoot.net/"><img src="https://img.shields.io/badge/-SpiderFoot-0077CC?&style=for-the-badge&logo=SpiderFoot&logoColor=white" /></a>
+I value hands-on work, clarity, and long-term impact.
+If you think there’s alignment, reach out and let’s build something that actually matters.
 
-</div>
+# 💻 Tech Stack:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ali-Afnan-Cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ali-Afnan-Cyber&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Afnan-Cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ali-Afnan-Cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ali-Afnan-Cyber&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
